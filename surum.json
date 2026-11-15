@@ -1,7 +1,7 @@
 {
- "surum": 2,
- "zip": "site-2.zip",
- "sha256": "89140e9d1b0db2238f7f3083f59fc25db5d4edcfcf1e48f27a118acbff7e06d4",
+ "surum": 4,
+ "zip": "site-4.zip",
+ "sha256": "d599d3d4eefb3fff2cd2200fb325d227f9a01a8d6778ee765a0d2269e8afa263",
  "minApk": 11,
- "tarih": "2026-11-14"
+ "tarih": "2026-11-15"
 }
